@@ -1,9 +1,10 @@
-import time
+
 import os
-print("hello")
-print("this will automatically open cmd with python?")
-time.sleep(10)
-print("give it more time")
-print("made by cdh8u with basic python")
-time.sleep(5)
+print("------------------------------")
+print("CMDONPYTHON")
+print("This will make your Python Window an Command Prompt.")
+print("If you have this removed, CMDONPYTHON cant work.")
+print("Version: 1.0.1, Improved Text, Modifed on 16:37 MSK.")
+print("------------------------------")
 os.system("cmd.exe")
+
